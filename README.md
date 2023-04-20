@@ -1,0 +1,1 @@
+This is a simple 2D game in which you have to dodge the incoming bullets.

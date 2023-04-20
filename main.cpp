@@ -12,7 +12,7 @@ int main(){
     playerTexture.loadFromFile("assets/player_sprites.png");
     player.setTexture(&playerTexture);
 
-    Animation animation(&playerTexture, sf::Vector2u(3, 9), 0.1f);
+    Animation animation(&playerTexture, sf::Vector2u(8, 3), 0.2f);
 
     float deltaTime = 0.0f;
     sf::Clock clock;
